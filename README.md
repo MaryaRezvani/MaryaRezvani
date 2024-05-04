@@ -1,6 +1,3 @@
-Hi, I’m Maryam
-- 👀 I’m interested in Programming,Research,and designing
-- 🌱 I’m currently learning Machine learning by python language
 # Maryam Rezvani
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=300&width=435&lines=Hi%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Maryam+Rezvani;%E2%9D%A4Welcome+%26+Enjoy%E2%9D%A4)](https://git.io/typing-svg)
