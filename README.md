@@ -10,7 +10,7 @@
 [![Github](https://img.shields.io/github/followers/MaryaRezvani?label=Follow&style=social)](https://github.com/MaryaRezvani)
 
 ## 🖥 Skills
-
+- Django Developer
 - Machine Learning
 - Deep Learning
 - Computer Vision
